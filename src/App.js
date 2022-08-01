@@ -1,4 +1,4 @@
-import "./App.css";
+
 import Bappy from "./components/faysal/Bappy";
 
 function App() {
@@ -7,6 +7,4 @@ function App() {
     <Bappy name="Bappy" />
   </div>;
 }
-
 export default App;
-
