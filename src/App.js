@@ -1,12 +1,13 @@
-<<<<<<< HEAD
+
 import "./App.css";
-import Counter from "./components/Counter";
+import AngadDl from "./components/Pranto/AngadDl";
 
 function App() {
   // const name = "Ruhul";
   return (
     <div className="App">
-      <Counter />
+      <AngadDl />
+      
     </div>
   );
   }
